@@ -1,6 +1,7 @@
 Hi 👋
 
 👥 I'm a programmer from Italy that loves to code Discord and Telegram Bots in JavaScript.
+
 🕹 I also like to play a lot of videogames like Minecraft,Roblox,Euro Truck Simulator 2 and Oxygen Not Included.
 
 📦 I'm currently working on many projects, like my Discord Bot, StarBot

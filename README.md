@@ -11,3 +11,6 @@ Hi 👋
 🏷 Pronouns: He/Him
 
 🗣 Languages i can understand: Italian, English
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDiego123&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
